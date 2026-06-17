@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Node.js
+node_modules/
+
+# Log dosyaları
+*.log
+*_log.txt

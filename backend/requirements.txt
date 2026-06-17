@@ -1,0 +1,13 @@
+Flask
+Flask-SocketIO
+flask-cors
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+requests
+beautifulsoup4
+lxml
+groq
+python-dotenv
