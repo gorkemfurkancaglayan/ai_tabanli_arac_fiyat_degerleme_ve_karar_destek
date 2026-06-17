@@ -1,90 +1,36 @@
-# Arac Asistan
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
----
+## Getting Started
 
-## Klasör Yapısı
-
-```
-arac_asistan/
-├── templates/
-│   └── index.html              ← Denemelik basit arayüz
-├── arac_verisi.csv             ← Ana veritabanı - çeşitli sitelerden veriler - sentetik/gerçek, elle_girilmis/scrape_edilmis gibi vs.
-├── predictor.py                ← RandomForest ML Modeli
-├── app.py                      ← Flask & WebSocket Sunucusu
-├── model.py                    ← ML modeli basit hali ilk versiyon
-├── arabam_scraper.py           ← Arabam.com için özelleştirilmiş otonom scraper
-├── arabam_log.txt              ← Arabam.com scraper logları
-├── sahibinden_log.txt          ← Sahibinden.com scraper logları
-└── sahibinden_scraper.py       ← Sahibinden.com için özelleştirilmiş otonom scraper
-```
-
----
-
-## Kurulum
-
-Sanal ortam kurmak için
+First, run the development server:
 
 ```bash
-python -m venv venv
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-Sanal ortamı aktif etmek için
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-```bash
-venv\Scripts\activate
-```
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-Gerekli kütüphanelerin kurulumu
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-```bash
-pip install flask scikit-learn pandas flask-socketio eventlet flask-cors playwright playwright-stealth
-```
+## Learn More
 
-Veri çekmede kullanmak için chromium
+To learn more about Next.js, take a look at the following resources:
 
-```bash
-playwright install chromium
-```
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Basit LLM denemesi için
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-```bash
-pip install groq
-```
+## Deploy on Vercel
 
-## Kullanım
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-ilk versiyon modeli kullanmak için
-
-```bash
-python model.py
-```
-
-Arayüze entegre Modeli kullanmak için
-
-```bash
-python app.py
-```
-
-Arabam.com scraper'ını kullanmak için
-
-```bash
-python arabam_scraper.py
-```
-
-Sahibinden scraper'ını kullanmak için bu sitede güvenlik biraz fazla olduğu için önce
-IDE üzerinden değil normal çalıştır > cmd yazıp bir command prompt aç ve alttakini yapıştır
-sonrasında açılan google sekmesini kapatma(Google'ın kurulu olduğu yer sendede aynı ise düzgün çalışması lazım.)
-
-```bash
-"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\localhost_chrome"
-```
-
-Sahibinden scraper'ını kullanmak için
-
-```bash
-python sahibinden_scraper.py
-```
-
-Sahibindende güvenlik yine fazla olduğu için örneğin robot'musunuz gibi doğrulamalar isterse elle manuel tıkla açılan sekmede veya giriş yapın derse CMD kullanarak açtığımız
-google sekmesinden sahibinden.com'a giriş yap herhangi bir hesaptan sonrasında tekrar çalıştır scraper'ı.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
