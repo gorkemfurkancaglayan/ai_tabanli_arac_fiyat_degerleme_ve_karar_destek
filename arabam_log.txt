@@ -1,0 +1,64 @@
+2026-06-14 16:44:29 - [INFO] - Otonom Scraper Ba�lat�ld�. Hedef: S�n�rs�z ilan.
+2026-06-14 16:44:29 - [INFO] - Haf�zaya al�nan mevcut ilan say�s�: 178
+2026-06-14 16:44:50 - [WARNING] - Eksik veri, atland�. �lan: 40111259
+2026-06-14 16:44:56 - [WARNING] - Eksik veri, atland�. �lan: 40841892
+2026-06-14 16:45:01 - [WARNING] - Eksik veri, atland�. �lan: 40835036
+2026-06-14 16:45:08 - [WARNING] - Eksik veri, atland�. �lan: 40588125
+2026-06-14 16:45:11 - [INFO] - BOT DURDU. Son ba�ar�yla eklenen: Hen�z eklenen olmad�
+2026-06-14 16:45:11 - [INFO] - Oturum �zeti - Taranan: 26, Eklenen: 0
+
+2026-06-14 16:45:12 - [ERROR] - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-06-14 16:48:36 - [INFO] - Otonom Scraper Başlatıldı. Hedef: Sınırsız ilan.
+2026-06-14 16:48:53 - [INFO] - YENİ KAYIT: İlan No: 40111259 (Ford Fiesta)
+2026-06-14 16:48:57 - [INFO] - YENİ KAYIT: İlan No: 40841892 (Fiat Punto)
+2026-06-14 16:49:03 - [INFO] - YENİ KAYIT: İlan No: 40835036 (Volkswagen Golf)
+2026-06-14 16:49:07 - [INFO] - YENİ KAYIT: İlan No: 40588125 (Citroen C4)
+2026-06-14 16:49:13 - [INFO] - YENİ KAYIT: İlan No: 40511970 (Volkswagen Polo)
+2026-06-14 16:49:19 - [INFO] - YENİ KAYIT: İlan No: 40482839 (Mercedes - Benz E)
+2026-06-14 16:49:23 - [INFO] - YENİ KAYIT: İlan No: 40394910 (Renault Megane)
+2026-06-14 16:49:27 - [INFO] - YENİ KAYIT: İlan No: 40076979 (Dacia Sandero)
+2026-06-14 16:49:33 - [INFO] - YENİ KAYIT: İlan No: 40007429 (Volkswagen Polo)
+2026-06-14 16:49:37 - [INFO] - YENİ KAYIT: İlan No: 41255854 (Renault Clio)
+2026-06-14 16:49:43 - [INFO] - YENİ KAYIT: İlan No: 41255706 (Renault Megane)
+2026-06-14 16:49:48 - [INFO] - YENİ KAYIT: İlan No: 41255648 (Dacia Sandero)
+2026-06-14 16:49:54 - [INFO] - YENİ KAYIT: İlan No: 41255554 (Toyota Yaris)
+2026-06-14 16:49:59 - [INFO] - YENİ KAYIT: İlan No: 41255352 (Renault Clio)
+2026-06-14 16:50:04 - [INFO] - YENİ KAYIT: İlan No: 41254830 (Audi A3)
+2026-06-14 16:50:08 - [INFO] - YENİ KAYIT: İlan No: 41253961 (BMW 5 Serisi)
+2026-06-14 16:50:11 - [INFO] - YENİ KAYIT: İlan No: 40935802 (Hyundai i20)
+2026-06-14 16:50:15 - [INFO] - YENİ KAYIT: İlan No: 41250808 (Renault Megane)
+2026-06-14 16:50:27 - [INFO] - YENİ KAYIT: İlan No: 41250798 (Renault Clio)
+2026-06-14 16:50:32 - [INFO] - YENİ KAYIT: İlan No: 40824392 (Skoda Octavia)
+2026-06-14 16:50:36 - [INFO] - YENİ KAYIT: İlan No: 40823369 (Volkswagen Jetta)
+2026-06-14 16:50:40 - [INFO] - YENİ KAYIT: İlan No: 40729508 (Renault Symbol)
+2026-06-14 16:50:44 - [INFO] - YENİ KAYIT: İlan No: 41250272 (Fiat Linea)
+2026-06-14 16:50:49 - [INFO] - YENİ KAYIT: İlan No: 40021020 (Nissan Micra)
+2026-06-14 16:50:54 - [INFO] - YENİ KAYIT: İlan No: 41233825 (Renault Megane)
+2026-06-14 16:51:00 - [INFO] - YENİ KAYIT: İlan No: 39094649 (Ford Focus)
+2026-06-14 16:51:04 - [INFO] - YENİ KAYIT: İlan No: 41248852 (Peugeot 308)
+2026-06-14 16:51:07 - [INFO] - YENİ KAYIT: İlan No: 40530701 (Toyota Corolla)
+2026-06-14 16:51:11 - [INFO] - YENİ KAYIT: İlan No: 40529505 (Volkswagen VW CC)
+2026-06-14 16:51:16 - [INFO] - YENİ KAYIT: İlan No: 40527983 (Volkswagen Passat)
+2026-06-14 16:51:22 - [INFO] - YENİ KAYIT: İlan No: 40523795 (Suzuki Swift)
+2026-06-14 16:51:26 - [INFO] - YENİ KAYIT: İlan No: 40522417 (Renault Clio)
+2026-06-14 16:51:31 - [INFO] - YENİ KAYIT: İlan No: 40518078 (Ford Fiesta)
+2026-06-14 16:51:35 - [INFO] - YENİ KAYIT: İlan No: 41242942 (Volkswagen Golf)
+2026-06-14 16:51:46 - [INFO] - YENİ KAYIT: İlan No: 41242389 (Peugeot 508)
+2026-06-14 16:51:52 - [INFO] - YENİ KAYIT: İlan No: 41240471 (Opel Astra)
+2026-06-14 16:51:56 - [INFO] - YENİ KAYIT: İlan No: 41239744 (Volkswagen Golf)
+2026-06-14 16:52:02 - [INFO] - YENİ KAYIT: İlan No: 41238414 (Renault Megane)
+2026-06-14 16:52:05 - [INFO] - YENİ KAYIT: İlan No: 41238033 (Toyota Corolla)
+2026-06-14 16:52:11 - [INFO] - YENİ KAYIT: İlan No: 41230748 (BMW 4 Serisi)
+2026-06-14 16:52:18 - [INFO] - YENİ KAYIT: İlan No: 39624573 (Volkswagen Golf)
+2026-06-14 16:52:23 - [INFO] - YENİ KAYIT: İlan No: 41237273 (Volkswagen Passat)
+2026-06-14 16:52:27 - [INFO] - YENİ KAYIT: İlan No: 41237243 (Citroen C3)
+2026-06-14 16:52:32 - [INFO] - YENİ KAYIT: İlan No: 41236567 (Renault Symbol)
+2026-06-14 16:52:37 - [INFO] - YENİ KAYIT: İlan No: 41236786 (BMW 5 Serisi)
+2026-06-14 16:52:38 - [INFO] - BOT DURDU. Son başarıyla eklenen: İlan No: 41236786 (BMW 5 Serisi)
+2026-06-14 16:52:38 - [INFO] - Oturum Özeti - Taranan: 71, Eklenen: 45
+
+2026-06-14 16:52:39 - [ERROR] - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed

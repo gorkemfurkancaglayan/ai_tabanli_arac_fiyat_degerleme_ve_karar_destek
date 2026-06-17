@@ -1,0 +1,62 @@
+[
+  {
+    "id": "deger_kaybi_hesaplama",
+    "etiketler": ["değer kaybı", "deger kaybi", "hasar", "kaza", "değer düşüklüğü", "ekspertiz"],
+    "baslik": "Araç Değer Kaybı Hesaplama",
+    "icerik": "Araç değer kaybı, kazadan sonra aracın ikinci el piyasa değerinde yaşanan düşüştür. Formül: Araç Değer Kaybı = (Hasar Oranı × Araç Piyasa Değeri) - Onarım Maliyeti. Örneğin aracın piyasa değeri 1.000.000 TL, hasar oranı %15 ve onarım maliyeti 50.000 TL ise değer kaybı = (0,15 × 1.000.000) - 50.000 = 100.000 TL olur. Değer kaybı hesabında hasarın boyutu, aracın yıpranma düzeyi ve baz değer kaybı dikkate alınır. Bu hesaplama eksper tarafından yapılır. 75.000-149.000 km arasındaki araçlar için yasal katsayılar sabittir."
+  },
+  {
+    "id": "beyan_dilekce",
+    "etiketler": ["beyan", "dilekçe", "sigorta", "hasar bildirimi", "nasıl yazılır", "kaza bildirimi"],
+    "baslik": "Sigorta Hasar Beyan Dilekçesi",
+    "icerik": "Standart bir beyan dilekçesi şu adımlarla yazılır: 1) Başlık: Sayfanın en üstüne beyanın sunulacağı resmi makamı yazın (Örn: X Sigorta A.Ş. Hasar Müdürlüğü'ne). 2) Kişisel Bilgiler: Adınız, soyadınız, T.C. kimlik numaranız ve iletişim bilgilerinizi ekleyin. 3) Konu: 'Konu:' başlığı altında tek cümleyle özetleyin (Örn: Kasko hasar beyanımdır). 4) Açıklama: Olayı; ne zaman, nerede ve nasıl gerçekleştiğini net ve anlaşılır şekilde ifade edin. Karşı tarafın bilgileri ve plaka/dosya numaralarını belirtin. 5) Talep: 'Gereğini bilgilerinize arz ederim.' gibi resmi kapanış cümlesi yazın. 6) Tarih ve İmza: Sağ alt köşeye tarihi atın, adınızı soyadınızı yazıp imzalayın."
+  },
+  {
+    "id": "park_kazasi",
+    "etiketler": ["park", "park kazası", "park halinde", "çarptı", "vurdu", "zarar", "hasar"],
+    "baslik": "Park Halindeki Araç Hasarı",
+    "icerik": "Aracınız park halindeyken hasar gördüyse şu adımları izleyin: 1) Fotoğraf çekin: Hasarı, çevreyi ve varsa karşı aracı belgeleyin. 2) Tanık arayın: Çevredeki kişilerin ifadesi önemlidir. 3) Güvenlik kamerası: İş yeri veya belediye kameralarını kontrol ettirin. 4) Sigorta bildirimi: Kasko sigortanız varsa derhal bildirim yapın (genellikle 5 iş günü süresi vardır). 5) Beyan dilekçesi: Sigorta şirketine yazılı hasar beyanı verin. 6) Karşı taraf tespit edilmediyse: Kaskosuz araçlarda bu hasar kendi masrafınıza olabilir. Kasko sigortası park kazalarını kapsar ancak muafiyet miktarı düşülür."
+  },
+  {
+    "id": "kasko_trafik_farki",
+    "etiketler": ["kasko", "trafik sigortası", "sigorta farkı", "zorunlu sigorta", "hangi sigorta"],
+    "baslik": "Kasko ve Trafik Sigortası Farkı",
+    "icerik": "Trafik Sigortası (Zorunlu): Kanunla zorunludur. Yalnızca karşı tarafa verilen zararı karşılar. Kendi aracınıza gelen hasarı KAPSAMAZ. Kasko (İhtiyari): Zorunlu değildir, ek maliyeti vardır. Kendi aracınızın hasarını, çarpışma, hırsızlık, yangın, doğal afet gibi risklere karşı korur. Genellikle muafiyet miktarı içerir. Özetle: Trafik sigortası başkasına karşı, kasko kendinize karşı koruma sağlar. Her ikisinin birlikte olması önerilir."
+  },
+  {
+    "id": "ikinci_el_alirken",
+    "etiketler": ["ikinci el alırken", "dikkat", "kontrol", "araç satın alma", "araç alırken", "ne bakmalı"],
+    "baslik": "İkinci El Araç Alırken Dikkat Edilecekler",
+    "icerik": "İkinci el araç alırken şu kontroller şarttır: 1) Hasar kaydı: e-Devlet üzerinden aracın hasar kaydını ücretsiz sorgulayabilirsiniz. 2) Ekspertiz: Bağımsız bir ekspertiz firmasına mutlaka inceletin. Boya kalınlık ölçümü, alt şasi kontrolü yapılmalıdır. 3) Servis geçmişi: Yetkili servis bakım defterini isteyin. 4) Tramer kaydı: Sigorta hasar geçmişini sorgulayın. 5) Borç-rehin sorgusu: Aracın üzerinde haciz veya rehin var mı kontrol edin (Noterde sorgulanabilir). 6) Kilometre tutarlılığı: Gösterge km ile servis kayıtlarındaki km uyuşuyor mu kontrol edin. 7) Test sürüşü: Farklı hızlarda, rampalarda ve frenleme testleri yapın."
+  },
+  {
+    "id": "boya_hasar_deger_kaybi",
+    "etiketler": ["boya", "boyalı", "boya var", "değer kaybı boya", "lokal boya", "panel boya"],
+    "baslik": "Boya Hasarı ve Değer Kaybı",
+    "icerik": "Araçtaki boya hasarı değer kaybına yol açar. Lokal (küçük alan) boya: Genellikle piyasa değerinin %3-7'si değer kaybı. Panel boya (kapı, kanat gibi büyük parça): %5-10 değer kaybı. Şase veya büyük hasar sonrası boya: %15-25 değer kaybı. Bir kapı boyası yaklaşık 5.000-15.000 TL onarım maliyeti doğurur ancak iyi bir eksperin tespitine göre piyasa değerinden 20.000-50.000 TL düşebilir. Boya kalınlık ölçüm cihazı (mikrometre) ile hangi panelin boyalı olduğu kolayca anlaşılır; yetkili servis veya ekspertiz firmaları bu ölçümü yapar."
+  },
+  {
+    "id": "kilometre_analizi",
+    "etiketler": ["kilometre", "km", "çok mu", "az mı", "normal mi", "yıllık km"],
+    "baslik": "Araç Kilometre Analizi",
+    "icerik": "Türkiye'de bir araç yılda ortalama 15.000-20.000 km yapır. Değerlendirme: Az kullanılmış: Yıllık 10.000 km altı. Normal kullanım: Yıllık 15.000-20.000 km. Yüksek kullanım: Yıllık 25.000 km üstü. Örnek: 2018 model araç (7 yaşında) için 105.000 km normal, 70.000 km az, 160.000 km fazla kabul edilir. Yüksek km'nin etkileri: 150.000 km üstünde triger/kayış değişimi gerekebilir. 200.000 km üstünde şanzıman ve süspansiyon bileşenleri dikkat ister. Dizel motorlar benzinlilere kıyasla yüksek km'ye daha dayanıklıdır."
+  },
+  {
+    "id": "ekspertiz",
+    "etiketler": ["ekspertiz", "eksper", "araç muayenesi", "ekspertiz nerede", "ekspertiz ücreti"],
+    "baslik": "Araç Ekspertiz Süreci",
+    "icerik": "Ekspertiz, ikinci el araç alım-satımında bağımsız uzman değerlendirmesidir. Neleri kapsar: Boya kalınlık ölçümü (boyalı panel tespiti), alt şasi ve kaporta incelemesi, motor ve şanzıman testi, elektrik sistemi kontrolü, yasal belge ve belge uyumu kontrolü. Ekspertiz ücretleri: 500-1.500 TL arasında değişir (2024-2025 itibarıyla). Nerede yaptırılır: Bağımsız ekspertiz şirketleri (EkspertizNet, Otoeksper vb.), yetkili servisler veya oto sanayi içindeki ustalar. Tavsiye: Her zaman tarafsız, satıcıdan bağımsız bir firmaya yaptırın."
+  },
+  {
+    "id": "fiyat_pazarlik",
+    "etiketler": ["pazarlık", "fiyat indir", "indirim", "müzakere", "kaç para iner", "pazarlık payı"],
+    "baslik": "İkinci El Araçta Pazarlık Taktikleri",
+    "icerik": "İkinci el araç alımında pazarlık normaldir ve satıcılar bunu bekler. Ortalama pazarlık payı: İlan fiyatının %5-15'i. Pazarlığı güçlendiren faktörler: Tespit edilen boya/hasar kaydı (her boya için somut indirim talep edin), yüksek kilometre, yaklaşan bakım ihtiyacı (lastik, fren, triger), uzun süre satışta kalma. Pazarlık yaparken: Rakip ilanları gösterin. Ekspertiz raporundaki kusurları somutlaştırın. Peşin ödeme avantajını vurgulayın. Aceleci görünmeyin. Dikkat: Çok agresif pazarlık iyi bir satıcıyı kaçırabilir; makul ve gerekçeli teklifler daha etkilidir."
+  },
+  {
+    "id": "tramer_sorgulama",
+    "etiketler": ["tramer", "hasar kaydı sorgulama", "sigorta geçmişi", "kaza geçmişi"],
+    "baslik": "Tramer ve Hasar Kaydı Sorgulama",
+    "icerik": "Tramer (Trafik Sigortası Hasar ve Araç Bilgileri), sigortacılık sektörünün ortak hasar veri tabanıdır. Nasıl sorgulanır: tramer.com.tr adresinden araç plakası veya şasi numarası ile ücretsiz sorgulanabilir. e-Devlet üzerinden de 'Araç Hasar Kaydı Sorgulama' ile kontrol edilebilir. Neler görünür: Geçmiş kaza ve hasar bildirimleri, ödenen tazminat miktarları, hasarın tarihi ve türü. Önemli not: Yalnızca sigorta şirketine bildirilen hasarlar görünür. Cepten ödenen veya bildirilmeyen hasarlar Tramer'de çıkmaz. Bu nedenle Tramer temiz çıksa bile ekspertiz şarttır."
+  }
+]
